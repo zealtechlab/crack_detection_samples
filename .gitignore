@@ -3,3 +3,4 @@ content/
 train/
 val/
 test/
+model/
